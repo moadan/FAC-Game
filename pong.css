@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: rgb(175, 121, 226);
+}
+
+#board {
+    background-color: rgb(35, 28, 46);
+    border-top: 10px solid rgb(16, 126, 126);
+    border-bottom: 10px solid  rgb(16, 126, 126);
+}

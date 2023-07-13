@@ -11,8 +11,8 @@ This document will explain the code and provide some insight into my learning du
 - CSS: 
 
 
-- bug's
-
+# Project, my understanding of the code.
+![Image Description](/img's%20readme/1.png)
 
 
 # Project Inspiration

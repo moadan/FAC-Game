@@ -19,7 +19,7 @@ Image-1: show's the dimentions of canvas starting at (0.0) point or X, Y. width 
 
 Image-2: Ball starting point center, when ever the ball touches the boardHeight it revers.    
 
-// if ball touches top or bottom of canvas
+// if ball touches top or bottom of canvas<br>
     if (ball.y <= 0 || (ball.y + ball.height >= boardHeight)) {
         ball.velocityY *= -1; //reverse direction 
     }

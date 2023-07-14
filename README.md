@@ -8,7 +8,7 @@ This document will explain the code and provide some insight into my learning du
 
 - HTML: The (canvas) element is a container which allows for the drawing of graphics and animations, using JavaScript.
 (h1) for title. 
-addEventListener for keyup event,<br?>(W, S) to control player1<br>(UpKey, DownKey) to control player2 
+addEventListener for keyup event,<br>(W, S) to control player1<br>(UpKey, DownKey) to control player2 
 
 - CSS: (canvas id="board") background-color, & border-top, bottom, styles. 
 

@@ -6,7 +6,7 @@ let context;
 
 //players
 let playerWidth = 10;
-let playerHeight = 50;
+let playerHeight = 100;
 let playerVelocityY = 0;
 
 //score 

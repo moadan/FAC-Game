@@ -33,5 +33,4 @@ Image-3: Detection of ball and paddle contact.
 # Project in hindsight
 This task was a gradual learning curve, i had great difficulty visualizing the project at start and rushed into producing the game, without any planning and research.
 
-Learing resoure: https://www.youtube.com/watch?v=LTtfoyHxAVU 
-
+Learning resource: https://www.youtube.com/watch?v=LTtfoyHxAVU

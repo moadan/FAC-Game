@@ -26,12 +26,12 @@ Image-2: Ball starting point center, when ever the ball touches the boardHeight 
 
 <img src="/img's%20readme/2.png" alt="" width="850" height="350">
 
+Image-3: Detection of ball and paddle contact. 
 
 <img src="/img's%20readme/3.png" alt="" width="850" height="350">
 
-# Project Inspiration
-
-
-
 # Project in hindsight
+This task was a gradual learning curve, i had great difficulty visualizing the project at start and rushed into producing the game, without any planning and research.
+
+Learing resoure: https://www.youtube.com/watch?v=LTtfoyHxAVU 
 

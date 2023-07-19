@@ -18,7 +18,7 @@ Image-1: show's the dimentions of canvas starting at (0.0) point or X, Y. width 
 
 <img src="/img's%20readme/1.png" alt="" width="850" height="350">
 
-Image-2: Ball starting point center, when ever the ball touches the boardHeight it revers.    
+Image-2: Ball starting point center, when ever the ball touches the boardHeight it reverse.    
 
 // if ball touches top or bottom of canvas<br>
     if (ball.y <= 0 || (ball.y + ball.height >= boardHeight)) {<br>
